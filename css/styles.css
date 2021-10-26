@@ -16,3 +16,7 @@ h1,h2 {
     text-decoration-style: solid;
     color: #3269a8;
 }
+
+img {
+    border: 5px solid rgb(91, 88, 121);
+}
